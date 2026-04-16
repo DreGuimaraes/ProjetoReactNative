@@ -82,4 +82,4 @@ MIT License - Sinta-se livre para usar como template!
 
 ---
 
-Desenvolvido com ☕ e 💻 por [Seu Nome]
+Desenvolvido com ☕ e 💻 por [André Guimarães]
